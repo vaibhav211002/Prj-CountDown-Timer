@@ -1,0 +1,94 @@
+
+.main{
+    background: rgb(68, 1, 68);
+    
+}
+h1{
+    text-align: center;
+    margin: 25px;flex-basis: 100px;
+    color: rgb(30, 232, 8);
+    opacity: 0.9;
+}
+
+.timer_box{
+    font-family: sans-serif;
+    display: inline-block; 
+    padding: 24px 32px;
+    border-radius: 25px;
+    background: rgb(232, 247, 231);
+
+    margin-left:506px; 
+    opacity: 0.4;
+    
+}
+
+
+.set{
+    border: 3px solid rgb(50, 1, 44);
+    padding: 20px;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;flex-basis: 100px;
+    font-size: 60px;
+}
+
+.timer_p{
+    font-size:100px;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 30px;
+}
+
+.timer_iconp{
+    padding:10px;
+    border-radius: 10px;
+    color: white;
+    background:purple;
+    opacity: 0.9;
+}
+
+
+
+.timer_icons{
+
+    padding:10px;
+    border-radius: 10px;
+    color: white;
+    background:purple;
+    opacity: 0.9;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+
+  }
+
+/* body, html {
+    height: 100%;
+  }
+  
+  .bg{
+    /* The image used */
+    /* background-image: url("image.jpeg");
+  
+    /* Full height */
+    /* height: 100%;  */
+  
+    /* Center and scale the image nicely */
+    /* background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  /* } */ 
+
+
+
+
