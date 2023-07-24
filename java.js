@@ -48,8 +48,8 @@ document.getElementById("open_2").addEventListener("click",function(){
     else{
 
         open_2.disabled=true;
-        // var audio = new Audio('audio1.mp3');
-        // audio.play();
+        var audio = new Audio('audio1.mp3');
+        audio.play();
         document.getElementById("open_2").style.background="orange";
         time = prompt("ENTER THE TIME IN SECONDS :")
         time++;
